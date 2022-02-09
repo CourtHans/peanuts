@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "this is just for fun"
+echo "this is just for funt"
