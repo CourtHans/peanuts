@@ -7,6 +7,7 @@
 
 print ("Demo of python.")
 my_list = ["1 potato", "2 potato", "3 potato", "4"]
+fish = ["one fish", "two fish", "red fish", "blue fish"]
 
 print ("here's the full list!!")
 print (my_list)
@@ -18,3 +19,6 @@ print ("making a change")
 my_list[3] = "hooray!!"
 print ("")
 print (my_list)
+print ("")
+print ("Wish list? Fish list")
+print (fish)
